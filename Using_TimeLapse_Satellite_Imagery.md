@@ -18,6 +18,7 @@
  
  #### بعد إنشاء حساب مجاني مع Sentinel Hub ، تصبح ميزة انشاء Time-Lapse  متاحة.
  أولاً بعد الاتصال ، اختر المنطقة التي تريدها وحدد sentinel-2  و اضغط بحث للحصول على البيانات.
+ 
 ![image](https://drive.google.com/uc?export=view&id=1pctcryfDqKAodIV2B9qsbUSbSOSrDukb)
 
  ![image](https://drive.google.com/uc?export=view&id=1pc0foCxzsiTT-3BVjrzHZQHZyHaPYydP)
@@ -42,9 +43,12 @@
 كمثال مؤشر NDWI يمكننا من الحساب لكل بكسل في الصورة. فعندما تكون قيمة NDWI أكبر من عتبة ، عادةً ما بين 0 و 0.3 ، فإننا نعلم أن هذا البكسل يمثل الماء. وهذا يسمح حتى بمراقبة بركة صغيرة (60 م × 40 م).
 
 في هذه الأداة ، ستجد فلاتر مصممة لهذا الغرض كما هو موضح في الصورة أدناه. ستحصل في نهاية هذا الدليل على أمثلة للاستخدام في التحقيق والمزيد من التفاصيل حول هذا المؤشر.
+
 ![image](https://drive.google.com/uc?export=view&id=1pNMFqK6veUE5FKE2MHnpG8xRU6kq-ByU)
-باستخدامه في حالتنا سنرى التغيير الواضح في مستوى المياه في هذا السد. وسنرى أنه لم يجف تمامًا. 
-![image](https://drive.google.com/uc?export=view&id=1pIeSesK3Vwhb-C74ETeEssT9Xy8YzpJI)<br>
+
+باستخدامه في حالتنا سنرى التغيير الواضح في مستوى المياه في هذا السد. وسنرى أنه لم يجف تمامًا.
+
+![image](https://drive.google.com/uc?export=view&id=1pIeSesK3Vwhb-C74ETeEssT9Xy8YzpJI) <br>
 في الجزء التالي سنرى كيفية استخدام الأكواد النصية في الخرائط للحصول على نتائج أكثر تحديدًا.
 
 #### مصادر:
