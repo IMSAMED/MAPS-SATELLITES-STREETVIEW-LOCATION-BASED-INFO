@@ -30,7 +30,8 @@
 ![image](https://drive.google.com/uc?export=view&id=1pLzBRkivPBGfUyLbJLq_pDEzD79gYeJz)
 بعد تنزيل الصورة ستحصل على نتائج من هذا القبيل:
 
-![image](https://drive.google.com/uc?export=view&id=1pMgI5XlPh-kwKCcsjYCKqju-QKWvpnem) <br>
+![image](https://drive.google.com/uc?export=view&id=1pMgI5XlPh-kwKCcsjYCKqju-QKWvpnem) 
+<br>
 يمكننا أن نرى التغيير في حجم سطح السد ولكن الصور الأخيرة تظهر أن السد لا يزال يحتوي على المياه على عكس ما قيل في الأنباء. لكن المقارنة فقط بالصور تحتاج قيم عددية لاعطاء معنى لهذا التغير.
 #### مؤشرات الاستشعار عن بعد.
 معلومة حول استخدام الأقمار الصناعية ربما يعرف البعض منكم أنه يمكن لها تحويل الإنارة المقاسة على مستوى جهاز استشعار القمر الصناعي إلى مؤشرات لها معنى في مجال البيئة.
