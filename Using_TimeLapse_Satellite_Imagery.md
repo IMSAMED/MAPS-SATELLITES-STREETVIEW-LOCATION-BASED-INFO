@@ -21,14 +21,14 @@
  
 ![image](images/pic001.png)
 
- ![image](https://drive.google.com/uc?export=view&id=1pc0foCxzsiTT-3BVjrzHZQHZyHaPYydP)
+ ![image](images/pic002.png)
 انقر فوق الرمز الموجود على يمين شاشتك.
 
-![image](https://drive.google.com/uc?export=view&id=1pcYLZSl-F-TQ4NHdc40BApxpPnfDNKxc)
+![image](images/pic003.png)
 ستظهر لك منطقة زرقاء لتحديد المكان الذي تريده.
-![image](https://drive.google.com/uc?export=view&id=1pJTeI3rY362PcLyETp5Jhu5wvaFHGFlx)
+![image](images/pic004.png)
 لتحقيق  time lapse  فعالة ، ولمراقبة التغيير خلال فترة محددة ، حدد تاريخين في النافذة كما هو موضح في الصورة أدناه.على سبيل المثال لاكتشاف التغير الهيدرولوجي في هذا السد ، سنرى الصور في فترة الصيف في آخر ثلاث سنوات.
-![image](https://drive.google.com/uc?export=view&id=1pLzBRkivPBGfUyLbJLq_pDEzD79gYeJz)
+![image](images/pic005.png)
 بعد تنزيل الصورة ستحصل على نتائج من هذا القبيل:
 
 ![image](images/S2L2A-698951717750557-timelapse.gif) 
@@ -44,7 +44,7 @@
 
 في هذه الأداة ، ستجد فلاتر مصممة لهذا الغرض كما هو موضح في الصورة أدناه. ستحصل في نهاية هذا الدليل على أمثلة للاستخدام في التحقيق والمزيد من التفاصيل حول هذا المؤشر.
 
-![image](https://drive.google.com/uc?export=view&id=1pNMFqK6veUE5FKE2MHnpG8xRU6kq-ByU)
+![image](images/pic006.png)
 
 باستخدامه في حالتنا سنرى التغيير الواضح في مستوى المياه في هذا السد. وسنرى أنه لم يجف تمامًا.
 
