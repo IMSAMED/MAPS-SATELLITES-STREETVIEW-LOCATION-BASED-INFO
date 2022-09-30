@@ -19,7 +19,7 @@
  #### بعد إنشاء حساب مجاني مع Sentinel Hub ، تصبح ميزة انشاء Time-Lapse  متاحة.
  أولاً بعد الاتصال ، اختر المنطقة التي تريدها وحدد sentinel-2  و اضغط بحث للحصول على البيانات.
  
-![image](https://drive.google.com/uc?export=view&id=1pctcryfDqKAodIV2B9qsbUSbSOSrDukb)
+![image](images/pic001.png)
 
  ![image](https://drive.google.com/uc?export=view&id=1pc0foCxzsiTT-3BVjrzHZQHZyHaPYydP)
 انقر فوق الرمز الموجود على يمين شاشتك.
@@ -31,7 +31,7 @@
 ![image](https://drive.google.com/uc?export=view&id=1pLzBRkivPBGfUyLbJLq_pDEzD79gYeJz)
 بعد تنزيل الصورة ستحصل على نتائج من هذا القبيل:
 
-![image](https://drive.google.com/uc?export=view&id=1pMgI5XlPh-kwKCcsjYCKqju-QKWvpnem) 
+![image](images/S2L2A-698951717750557-timelapse.gif) 
 <br>
 يمكننا أن نرى التغيير في حجم سطح السد ولكن الصور الأخيرة تظهر أن السد لا يزال يحتوي على المياه على عكس ما قيل في الأنباء. لكن المقارنة فقط بالصور تحتاج قيم عددية لاعطاء معنى لهذا التغير.
 #### مؤشرات الاستشعار عن بعد.
@@ -48,7 +48,8 @@
 
 باستخدامه في حالتنا سنرى التغيير الواضح في مستوى المياه في هذا السد. وسنرى أنه لم يجف تمامًا.
 
-![image](images/S2L2A-1437476379591181-timelapse.gif) <br>
+![image](images/S2L2A-1437476379591181-timelapse.gif) 
+<br>
 في الجزء التالي سنرى كيفية استخدام الأكواد النصية في الخرائط للحصول على نتائج أكثر تحديدًا.
 
 #### مصادر:
